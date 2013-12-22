@@ -74,7 +74,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6666296"
-     inkscape:cx="-262.30842"
+     inkscape:cx="-259.30825"
      inkscape:cy="601.82137"
      inkscape:current-layer="g2870"
      showgrid="false"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1170,16 +1170,18 @@
    id="tspan3291">equals or exceeds 10</tspan></tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-           x="274.28571"
-           y="201.6479"
+           style="font-size:5.66357279px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+           x="392.36835"
+           y="231.87343"
            id="text4773"
            sodipodi:linespacing="125%"
-           transform="matrix(0.36464432,0,0,0.39095703,289.85773,161.84451)"><tspan
+           transform="scale(0.9657622,1.0354516)"><tspan
              sodipodi:role="line"
              id="tspan4775"
-             x="274.28571"
-             y="201.6479">2 per team per half</tspan></text>
+             x="392.36835"
+             y="231.87343">2 timeouts <tspan
+   style="font-weight:bold"
+   id="tspan3235">per team per half</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.55143042px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
